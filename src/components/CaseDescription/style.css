@@ -1,0 +1,21 @@
+.wrapper{
+    padding-top: 30px;
+}
+.textLogo{
+    width: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.caseDescription{
+    font-size: 16px;
+    font-weight: 500;
+    color: #B89535;
+    line-height: 24px;
+    padding-left: 10px;
+}
+.casePara{
+    font-weight: 500;
+    color: #13100D;
+    font-size: 14px;
+    line-height: 21px;
+}

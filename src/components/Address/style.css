@@ -1,0 +1,38 @@
+.wrapper{
+    padding-top: 30px;
+}
+.textLogo{
+    width: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.caseDescription{
+    font-size: 16px;
+    font-weight: 500;
+    color: #B89535;
+    line-height: 24px;
+    padding-left: 10px;
+}
+.casePara{
+    font-weight: 500;
+    color: #13100D;
+    font-size: 14px;
+    line-height: 21px;
+}
+.addressText{
+font-weight: 500;
+font-size: 14px;
+color: #13100D;
+line-height: 21px;
+}
+.addressLabel{
+    color: #13100D80;
+    font-weight: 500;
+    list-style: 21px;
+    font-size: 14px;
+}
+.mapImg{
+    width: 100%;
+    margin-left: -10px;
+    padding-top: 10px;
+}

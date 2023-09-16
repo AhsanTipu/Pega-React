@@ -1,0 +1,23 @@
+
+.avatarlogo{
+    width: 36px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 20px;
+}
+.assignedTO{
+    font-size: 14px;
+    font-weight: 700;
+    color: #13100D80;
+  padding-top: 13px;
+    line-height: 0px;
+}
+.Inspector_name{
+    font-size: 16px;
+    font-weight: 700;
+    color: #13100D;
+    line-height: 1rem;
+}
+.operatorName{
+    padding-left: 10px;
+}
